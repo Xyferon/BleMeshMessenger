@@ -1,0 +1,27 @@
+## Build and binary outputs
+bin/
+obj/
+publish/
+publish-standalone/
+standalone/
+
+## Visual Studio / VS Code / IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Cryptographic keyfiles & identity secrets (CRITICAL)
+*.key
+*.pem
+*.pfx
+mesh_identity.key
+
+## OS artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
