@@ -1,6 +1,6 @@
-# BLE Mesh Messenger 📡🔒
+# GhostMesh 👻📡
 
-> **Decentralized, Serverless, End-to-End Encrypted (E2EE) Mesh Messenger for Windows over Bluetooth Low Energy (BLE)**
+> **GhostMesh: Zero-Trust, Serverless, End-to-End Encrypted (E2EE) Bluetooth Low Energy Mesh Messenger for Windows**
 
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)

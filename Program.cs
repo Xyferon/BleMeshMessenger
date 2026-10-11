@@ -252,8 +252,8 @@ namespace BleMeshMessenger
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(@"
 ╔═════════════════════════════════════════════════════════════════════════════════════════╗
-║                   DECENTRALIZED E2EE BLE MESH MESSENGER (.NET 8)                        ║
-║     Zero-Trust Epidemic Store-and-Forward Mesh  •  X25519 + ChaCha20-Poly1305 AEAD      ║
+║                                      GHOSTMESH                                          ║
+║            Off-Grid • Zero-Metadata • E2EE Bluetooth Low Energy Mesh                    ║
 ╚═════════════════════════════════════════════════════════════════════════════════════════╝");
             Console.ResetColor();
         }
